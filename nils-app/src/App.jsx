@@ -6,7 +6,7 @@ function App() {
     <>
     
     <h2>HEEEJ???</h2>
-    
+    <img src="/EMMA_DOGGE.jpg" alt="Emma Dogge" />
     </>
   )
 }
