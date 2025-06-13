@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     
-    <h2>DET TRODDE DU VA DIN DUMMA JÄVEL!!!!!!!</h2>
+    <h2>HEEEJ</h2>
     
     </>
   )
